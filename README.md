@@ -30,3 +30,4 @@ cd example
 ## License
 See `LICENSE` for more information.
 
+`SPDX-License-Identifier: GPL-2.0-or-later`
